@@ -2,7 +2,7 @@
 
 Este repositório apresenta um painel **autoral** desenvolvido no **Grafana** para o **monitoramento contínuo de conectividade de links de internet**. O monitoramento é realizado via **Zabbix** utilizando checagens **ICMP (ping)**, cobrindo **ambientes de matriz e filial**, com checagem externa (WAN) adicional.
 
-![Painel de Monitoramento](./39f41f38-50c5-46fb-a45f-ddb5cb4db17d.png)
+![Painel de Monitoramento](./monitorlinks.png)
 
 ---
 
@@ -60,7 +60,7 @@ Este repositório apresenta um painel **autoral** desenvolvido no **Grafana** pa
 ## 🧑‍💻 Autor
 
 Desenvolvido por **Valdivino Aquino**  
-Especialista em TI, Infraestrutura e Monitoramento | [LinkedIn](https://www.linkedin.com/in/valdivinoaquino)
+Especialista em TI, Infraestrutura e Monitoramento | [LinkedIn](https://www.linkedin.com/in/valdivino-aquino-ti-goiania)
 
 ---
 
