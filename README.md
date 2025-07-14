@@ -1,6 +1,5 @@
 # 🌐 Monitoramento de Links de Internet
-## 💻 Zabbix
-## 📈 Grafana
+## 💻 Zabbix // 📈 Grafana
 
 Este repositório apresenta um painel **autoral** desenvolvido no **Grafana** para o **monitoramento contínuo de conectividade de links de internet**. O monitoramento é realizado via **Zabbix** utilizando checagens **ICMP (ping)**, cobrindo **ambientes de matriz e filial**, com checagem externa (WAN) adicional.
 
